@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14e26cd8-06b7-4a0e-a68f-6b07cdcc1547" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best_teacher_model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/88best_teacher_model.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/distill.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/teacher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teacher_logits.pt" beforeDir="false" afterPath="$PROJECT_DIR$/teacher_logits.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teacher_logits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_distill.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/scheduler.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexBybye&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:AlexBybye/SRP_PReco.git&quot;,
+    &quot;accountId&quot;: &quot;2b6678d3-af99-4fc5-8d61-48e1417d263c&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../conda/envs/deeplearning/Lib/site-packages/torch/utils/data/dataset.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2w2bNNZ7s7gOZWGpeQOm4mEY1Pj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python 测试.Doctests (_utils 内).executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.SRP_PReco.executor": "Run",
+    "Python.Teacher_model_training.executor": "Run",
+    "Python.build.executor": "Run",
+    "Python.classification.executor": "Run",
+    "Python.factory.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.resnet34.executor": "Run",
+    "Python.teacher.executor": "Run",
+    "Python.teacher1.executor": "Run",
+    "Python.teacher_logits.executor": "Run",
+    "Python.testcuda.executor": "Run",
+    "Python.tinyvit.executor": "Run",
+    "Python.try.executor": "Run",
+    "Python.try85.executor": "Run",
+    "Python.trytry.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Python/SRP_SunG/SRP_PReco",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\SRP_SunG\SRP_PReco" />
+      <recent name="D:\Python\SRP_SunG\SRP_PReco\models" />
+      <recent name="D:\Python\SRP_SunG\SRP_PReco\data" />
+      <recent name="D:\Python\SRP_SunG\SRP_PReco\configs" />
+      <recent name="D:\Python\SRP_SunG\SRP_PReco\TinyViT\data\my_dataset\val\NG" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SRP_PReco" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SRP_PReco" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="DLearn" />
+      <option name="WORKING_DIRECTORY" value="D:\Python\SRP_PReco" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="14e26cd8-06b7-4a0e-a68f-6b07cdcc1547" name="更改" comment="" />
+      <created>1745242574957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745242574957</updated>
+    </task>
+    <servers />
+  </component>
+</project>
